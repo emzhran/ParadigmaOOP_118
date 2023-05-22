@@ -19,3 +19,9 @@ public:
 		cout << "Nilai = " << nilai << endl;
 	}
 };
+
+int main() {
+	mahasiswa mhs(118, "Mohammad Zachran Zachary", 95);
+
+	return 0;
+}
